@@ -34,7 +34,7 @@ void generateName() {
 			}	
 		}
 	} else { 
-		unsigned char *politicians[15] = {
+		const char *politicians[15] = {
 			"E.Solberg ",
 			"GahrStore ",
 			"SivJensen ",
